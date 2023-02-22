@@ -146,3 +146,5 @@ dist
 
 # jwt token related files
 jwt/
+
+token.txt
